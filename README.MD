@@ -7,6 +7,6 @@
 看到右边的release了吗？点击它，就可以下载经过审查的插件！
 
 ### 使用方式
-1.下载插件，并解压到文件夹
-2.将插件文件夹内的内容复制Horizon/plugins，请确保插件的注册文件在plugins根目录下
-3.运行Horizon/刷新插件.bat
+1 下载插件，并解压到文件夹
+2 将插件文件夹内的内容复制Horizon/plugins，请确保插件的注册文件在plugins根目录下
+3 运行Horizon/刷新插件.bat
