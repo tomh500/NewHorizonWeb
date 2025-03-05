@@ -6,7 +6,7 @@
 
 ## 官方插件市场
 
-右侧的 [release](#) 链接可以下载经过审查的插件！
+右侧的 [release](https://github.com/tomh500/NewHorizonWeb/releases) 链接可以下载经过审查的插件！
 
 ## 使用说明
 
