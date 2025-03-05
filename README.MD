@@ -8,6 +8,5 @@
 
 ### 使用方式
 1.下载插件，并解压到文件夹
-2.将插件文件夹内的内容复制到 ### Horizon/plugins###
-请确保插件的### 注册文件 ###在plugins根目录下
+2.将插件文件夹内的内容复制Horizon/plugins，请确保插件的注册文件在plugins根目录下
 3.运行Horizon/刷新插件.bat
